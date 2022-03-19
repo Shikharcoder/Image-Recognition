@@ -1,0 +1,19 @@
+body {
+    background-color: lightsalmon;
+    color: midnightblue;
+}
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+#cam {
+    height: 300px;
+    width: 350px;
+    border: 2px dashed black;
+}
+.name_of_obj {
+    color: orangered;
+}
+#result_obj_name, #result_obj_accu {
+    color: olive;
+}
